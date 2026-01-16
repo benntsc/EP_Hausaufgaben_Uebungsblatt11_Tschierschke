@@ -1,7 +1,7 @@
 package h2;
 
 public class H2_main {
-	// globales Cache-Array konstanter Länge
+
 	private static long[] cache = new long[1000];
 
 	public static void main(String[] args) {
